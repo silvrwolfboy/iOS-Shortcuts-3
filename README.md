@@ -1,6 +1,9 @@
 
 # iOS Shortcuts/iOS捷径
 
+[![](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=waysup.iOS-Shortcuts)](https://github.com/waysup/iOS-Shortcuts)
+[![](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=waysup.iOS-Shortcuts)](https://github.com/waysup/iOS-Shortcuts)
+
 This repository is a personal collection of handy Shortcuts(Workflows) on iOS.
 
 此存储库是iOS上shortcuts（workflow）的集合。
@@ -13,6 +16,3 @@ All shortcuts are provided as  `.shortcut` format, so you can directly download 
 
 - You can navigate to the shortcut file you want and click **Download**, then open it in the Shortcuts App. Also, you can clone/download the entire repo.
 - 你可以导航到所需的shortcut文件，然后单击**下载**，然后在shortcut APP中将其打开。 此外，你可以克隆/下载整个仓库。
-
-
-
